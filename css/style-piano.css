@@ -1,5 +1,4 @@
 .piano {
-  margin-bottom: 40px;
   position: relative;
 }
 .piano text {
@@ -40,17 +39,4 @@
 }
 .piano .group-text > g.active {
   display: block;
-}
-.piano .piano-del {
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
-  text-align: center;
-  background-color: #6b0000;
-  color: #ffffff;
-  border-radius: 100%;
-  border: none;
-  position: absolute;
-  top: -15px;
-  right: -15px;
 }
